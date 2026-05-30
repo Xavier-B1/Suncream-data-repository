@@ -1,0 +1,1 @@
+The files in this repository were the basis of the calculations that are presented in the submitted article. One has the historical weather data for France over 30 years. The other presents the sales data over the period from 2003 to 2013.
